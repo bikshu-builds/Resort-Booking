@@ -1,0 +1,26 @@
+{
+  "name": "h",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^3.0.3",
+    "date-fns": "^4.1.0",
+    "mongoose": "^8.19.4",
+    "next": "16.0.3",
+    "next-auth": "^5.0.0-beta.30",
+    "react": "^19.2.0",
+    "react-date-range": "^2.0.1",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^9",
+    "eslint-config-next": "16.0.3"
+  }
+}
